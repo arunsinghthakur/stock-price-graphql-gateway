@@ -1,5 +1,5 @@
 {
-  "name": "stock-graphql-gateway",
+  "name": "stock-price-graphql-gateway",
   "scripts": {
     "start": "nodemon -r esm index.js"
   },
